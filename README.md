@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at **https://github.com/AykutAltun**
 - 📄 Know about my experiences **https://www.linkedin.com/in/aykutaltun/**
 
-<div> <a [![X.com](https://www.x.com/x-logo.png)](https://twitter.com/aykuttaltun)></a>
+<div> <a - [Twitter](https://twitter.com/kullanıcıadı)></a>
 <a href="https://www.linkedin.com/in/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:aykutaltun11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
