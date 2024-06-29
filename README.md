@@ -11,13 +11,13 @@
 - 👨‍💻 All of my projects are available at **https://github.com/AykutAltun**
 - 📄 Know about my experiences **https://www.linkedin.com/in/aykutaltun/**
 
-<div> <a - [Twitter](https://twitter.com/kullanıcıadı)></a>
+<div> <a href="https://www.x.com/in/aykuttaltun" target="_blank"><img src="https://img.shields.io/badge/x-0077B5?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:aykutaltun11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aykuttaltun" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="aykuttaltun" height="30" width="40" /></a><a href="https://linkedin.com/in/aykutaltun" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="aykutaltun" height="30" width="40" /></a><a href="https://www.hackerrank.com/aykutaltun11" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="aykutaltun11" height="30" width="40" /></a></p>
+<a href="https://x.com/aykuttaltun" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/x.svg" alt="aykuttaltun" height="30" width="40" /></a><a href="https://linkedin.com/in/aykutaltun" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="aykutaltun" height="30" width="40" /></a><a href="https://www.hackerrank.com/aykutaltun11" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="aykutaltun11" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
