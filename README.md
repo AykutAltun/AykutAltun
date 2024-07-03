@@ -10,7 +10,7 @@
 - 📫 How to reach me **aykutaltun11@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/AykutAltun**
 - 📄 Know about my experiences **https://www.linkedin.com/in/aykutaltun/**
-
+                               **https://linktr.ee/aykutaltun**
 <div> <a href="https://x.com/aykuttaltun" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
