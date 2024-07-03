@@ -18,7 +18,9 @@
 <a href="https://linktr.ee/aykutaltun" target="_blank">
   <img src="https://user-images.githubusercontent.com/806104/120934292-93389c00-c6bc-11eb-8f2a-73f3eb5d4e53.png" alt="Linktree" style="height: 30px;">
 </a>
-  
+
+[![Linktree](https://upload.wikimedia.org/wikipedia/commons/b/bb/Linktree_logo.svg)](https://linktr.ee/aykutaltun)
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/aykuttaltun" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="aykuttaltun" height="30" width="40" /></a> <a href="https://linkedin.com/in/aykutaltun" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="aykutaltun" height="30" width="40" /></a> <a href="https://www.hackerrank.com/aykutaltun11" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="aykutaltun11" height="30" width="40" /></a>
