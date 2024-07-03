@@ -15,8 +15,8 @@
 <a href="https://www.linkedin.com/in/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aykutaltun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:aykutaltun11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/aykutaltun" target="_blank">
-  <img src="https://seeklogo.com/images/L/linktree-logo-7FE3CCC1FF-seeklogo.com.png" alt="Linktree" style="height: 30px;">
+<a href="https://linktr.ee/aykutaltun" target="_blank">
+  <img src="https://user-images.githubusercontent.com/806104/120934292-93389c00-c6bc-11eb-8f2a-73f3eb5d4e53.png" alt="Linktree" style="height: 30px;">
 </a>
   
 </div><h3 align="left">Connect with me:</h3>
